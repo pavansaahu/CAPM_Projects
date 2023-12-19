@@ -1,0 +1,1 @@
+using CatalogService as service from '/home/user/projects/cap_tutorial/srv/cat-service.cds';
